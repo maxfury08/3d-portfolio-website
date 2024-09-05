@@ -95,14 +95,13 @@ const Projects = () => {
   return (
     <Container id="Projects">
       <Wrapper>
-        <Title>Projects</Title>
+        <Title>Achievements and Participations</Title>
         <Desc
           style={{
             marginBottom: "40px",
           }}
         >
-          I have worked on a wide range of projects. From web apps to android
-          apps. Here are some of my projects.
+          Participated in multiple hackathons, showcasing innovative solutions and collaborative skills.
         </Desc>
 
         <ToggleButtonGroup>
@@ -114,25 +113,20 @@ const Projects = () => {
           </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "web app"}
-            onClick={() => setToggle("web app")}
+            active={toggle === "Won"}
+            onClick={() => setToggle("Won")}
           >
-            WEB APP"S
+            WON
           </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "android app"}
-            onClick={() => setToggle("android app")}
+            active={toggle === "participated"}
+            onClick={() => setToggle("participated")}
           >
-            ANDROID APP'S
+            Participated
           </ToggleButton>
           <Divider />
-          <ToggleButton
-            active={toggle === "machine learning"}
-            onClick={() => setToggle("machine learning")}
-          >
-            MACHINE LEARNING
-          </ToggleButton>
+          
         </ToggleButtonGroup>
 
         <CardContainer>
