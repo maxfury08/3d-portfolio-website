@@ -113,7 +113,7 @@ const Contact = () => {
         "service_uovdptm",
         "template_2cthxhl",
         form.current,
-        "ToG6Os_uohD3LXXVPji1z"
+        "_BsYTt9W4cT9FqYdf"
       )
       .then(
         (result) => {
@@ -140,7 +140,7 @@ const Contact = () => {
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
           <ContactInput placeholder="Your Name" name="from_name" />
-          <ContactInput placeholder="Subject" name="subject" />
+          
           <ContactInputMessage placeholder="Message" name="message" rows={4} />
           <ContactButton type="submit" value="Send" />
         </ContactForm>
