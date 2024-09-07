@@ -12,9 +12,9 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1JoaHmceQxt0eVCRByyoqjGET65slUQGP/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shenali-gamage/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  twitter: "",
+  insta: "https://www.instagram.com/shenu_u_u/?hl=en",
+  facebook: "https://www.facebook.com/nethmi.shenali.16/",
 };
 
 export const skills = [

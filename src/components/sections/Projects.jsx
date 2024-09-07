@@ -125,7 +125,7 @@ const Projects = () => {
           >
             Participated
           </ToggleButton>
-          <Divider />
+         
           
         </ToggleButtonGroup>
 
