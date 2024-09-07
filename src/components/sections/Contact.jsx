@@ -113,7 +113,7 @@ const Contact = () => {
         "service_uovdptm",
         "template_2cthxhl",
         form.current,
-        "t0YGRvuH35x2ioxuP"
+        "ToG6Os_uohD3LXXVPji1z"
       )
       .then(
         (result) => {
