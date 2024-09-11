@@ -68,7 +68,6 @@ const Education = () => {
             <EducationCard key={`education-${index}`} education={education} />
           ))}
         </VerticalTimeline>
-        
       </Wrapper>
     </Container>
   );
