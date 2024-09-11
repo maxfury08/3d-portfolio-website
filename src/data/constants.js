@@ -406,10 +406,7 @@ export const projects = [
       "Participated in the RealHack hackathon, a competitive programming event. This experience allowed us to showcase our coding skills and problem-solving abilities in a highly competitive environment.",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRloDKLU7rrsYnB1-DrgMufeUNTU6D-gpUQyg&s",
-   
     category: "participated",
-   
   },
- 
 ];
 
